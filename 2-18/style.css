@@ -1,0 +1,24 @@
+body {
+  background-color: gray;
+  color: white;
+}
+h1 {
+  margin: 150px auto 0;
+  text-align: center;
+  border-bottom: 6px solid;
+}
+form {
+  margin: 75px auto 0;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  margin: 50px auto 0px; 
+}
+.q_form {
+  margin-top: 20px;
+}
+.a_p {
+  margin: 20px auto 0;
+}
